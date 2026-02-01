@@ -6,7 +6,7 @@
       "description": "Test show for RodStream",
       "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/512px-Placeholder_view_vector.svg.png",
       "background": "",
-      "episodesUrl": "https://YOUR_USERNAME.github.io/rodstream-content/episodes.json"
+      "episodesUrl": "https://github.com/hotrod010307/rodstream-content/blob/main/episodes.json"
     }
   ]
 }
