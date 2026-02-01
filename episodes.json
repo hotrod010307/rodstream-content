@@ -1,0 +1,12 @@
+{
+  "episodes": [
+    {
+      "id": "ep1",
+      "title": "Test Episode",
+      "description": "HLS test stream",
+      "duration": 600,
+      "thumbnail": "",
+      "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    }
+  ]
+}
