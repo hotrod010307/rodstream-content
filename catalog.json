@@ -1,12 +1,11 @@
 {
   "shows": [
     {
-      "id": "testshow",
+      "id": "demo1",
       "title": "RodStream Demo",
-      "description": "Test show for RodStream",
-      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/512px-Placeholder_view_vector.svg.png",
-      "background": "",
-      "episodesUrl": "https://hotrod010307.github.io/rodstream-content/episodes.json"
+      "description": "Test show for Roku",
+      "poster": "https://dummyimage.com/220x330/444/fff.png&text=RodStream",
+      "episodesUrl": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/episodes.json"
     }
   ]
 }
