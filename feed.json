@@ -90,6 +90,17 @@
       "title": "Trending Movies",
       "items": [
         {
+          "id": "Be-Fr",
+          "title": "Bed Friends",
+          "description": "Gay Shit",
+          "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/Be-Fr_cover.jpg",
+          "releaseDate": "20000",
+          "mediaType": "movie",
+          "duration": 100000000222,
+          "url": "https://hls.cdnvideo11.shop/hls07/6999/Ep1_index.m3u8",
+          "streamFormat": "mp4"
+        },
+        {
           "id": "mov-cyber-runner",
           "title": "Cyber Runner",
           "description": "A thrilling sci-fi adventure in the world of Cyber Runner",
