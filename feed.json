@@ -64,7 +64,7 @@
                   "releaseDate": "2025-11-28",
                   "duration": 2940,
                   "url": "https://hls08.cdnvideo11.shop/hls08/11966/Ep1.v0019_index.m3u8",
-                  "subtitleUrl": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/refs/heads/main/subs/Heated.Rivalry.S01E01.Rookies.1080p.HEVC.x265-MeGusta%5BEZTVx.to%5D.srt",
+                  "subtitleUrl": "https://gist.githubusercontent.com/matibzurovski/d690d5c14acbaa399e7f0829f9d6888e/raw/63578ca30e7430be1fa4942d4d8dd599f78151c7/example.srt",
                   "streamFormat": "hls",
                   "episodeNumber": "1"
                 },
