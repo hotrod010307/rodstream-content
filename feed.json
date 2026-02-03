@@ -1,0 +1,150 @@
+{
+  "rows": [
+    {
+      "title": "Featured Series",
+      "items": [
+        {
+          "id": "show-heated-rivalry",
+          "title": "Heated Rivalry",
+          "description": "Two rival hockey stars at the peak of their careers face an unexpected emotional connection, challenging their professional paths and disrupting the sports world's expectations.",
+          "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/heated_rivalry_cover.jpg",
+          "releaseDate": "2025",
+          "mediaType": "series",
+          "seasons": [
+            {
+              "title": "Season 1",
+              "episodes": [
+                {
+                  "id": "ep-1",
+                  "title": "Rookies",
+                  "description": "Two rival hockey stars at the peak of their careers face an unexpected emotional connection, challenging their professional paths and disrupting the sports world's expectations.",
+                  "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/heated_rivalry_ep1.webp",
+                  "releaseDate": "2025-11-28",
+                  "duration": 2940,
+                  "url": "https://hls08.cdnvideo11.shop/hls08/11966/Ep1.v0019_index.m3u8",
+                  "streamFormat": "hls",
+                  "episodeNumber": "1"
+                },
+                {
+                  "id": "ep-2",
+                  "title": "Olympians",
+                  "description": "Shane and Ilya keep their secret fling alive while their growing connection is tested by personal and professional pressures.",
+                  "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/heated_rivalry_ep2.webp",
+                  "releaseDate": "2025-11-28",
+                  "duration": 2580,
+                  "url": "https://hls08.cdnvideo11.shop/hls08/11966/Ep2.v1901_index.m3u8",
+                  "streamFormat": "hls",
+                  "episodeNumber": "2"
+                },
+                {
+                  "id": "ep-3",
+                  "title": "Hunter",
+                  "description": "A high-stakes career collides with love when a chance meeting ignites a spark.",
+                  "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/heated_rivalry_ep3.webp",
+                  "releaseDate": "2025-12-05",
+                  "duration": 2880,
+                  "url": "https://hls08.cdnvideo11.shop/hls08/11966/Ep3_index.m3u8",
+                  "streamFormat": "hls",
+                  "episodeNumber": "3"
+                },
+                {
+                  "id": "ep-4",
+                  "title": "Rose",
+                  "description": "A moment of unexpected vulnerability and a high-profile romance unleash a storm of turmoil for Shane and Ilya.",
+                  "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/heated_rivalry_ep4.webp",
+                  "releaseDate": "2025-12-12",
+                  "duration": 2580,
+                  "url": "https://hls08.cdnvideo11.shop/hls08/11966/Ep4.v172_index.m3u8",
+                  "streamFormat": "hls",
+                  "episodeNumber": "4"
+                },
+                {
+                  "id": "ep-5",
+                  "title": "I'll Believe in Anything",
+                  "description": "Shane, Ilya, and Scott each face pivotal personal decisions.",
+                  "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/heated_rivalry_ep5.webp",
+                  "releaseDate": "2025-12-19",
+                  "duration": 3300,
+                  "url": "https://hls08.cdnvideo11.shop/hls08/11966/Ep5.v191_index.m3u8",
+                  "streamFormat": "hls",
+                  "episodeNumber": "5"
+                },
+                {
+                  "id": "ep-6",
+                  "title": "The Cottage",
+                  "description": "Shane and Ilya get away from the spotlight but they have to face some tough decisions that could change everything about their future and life together.",
+                  "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/heated_rivalry_ep6.webp",
+                  "releaseDate": "2025-12-26",
+                  "duration": 3060,
+                  "url": "https://hls08.cdnvideo11.shop/hls08/11966/Ep6.v173_index.m3u8",
+                  "streamFormat": "hls",
+                  "episodeNumber": "6"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Trending Movies",
+      "items": [
+        {
+          "id": "mov-cyber-runner",
+          "title": "Cyber Runner",
+          "description": "A thrilling sci-fi adventure in the world of Cyber Runner",
+          "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/splash_hd.jpg",
+          "releaseDate": "2025",
+          "duration": 7200,
+          "mediaType": "movie",
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "streamFormat": "mp4"
+        },
+        {
+          "id": "mov-space-drift",
+          "title": "Space Drift",
+          "description": "A thrilling sci-fi adventure in the world of Space Drift",
+          "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/splash_hd.jpg",
+          "releaseDate": "2025",
+          "duration": 7200,
+          "mediaType": "movie",
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "streamFormat": "mp4"
+        },
+        {
+          "id": "mov-the-deep",
+          "title": "The Deep",
+          "description": "A thrilling sci-fi adventure in the world of The Deep",
+          "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/splash_hd.jpg",
+          "releaseDate": "2025",
+          "duration": 7200,
+          "mediaType": "movie",
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "streamFormat": "mp4"
+        },
+        {
+          "id": "mov-urban-legend",
+          "title": "Urban Legend",
+          "description": "A thrilling sci-fi adventure in the world of Urban Legend",
+          "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/splash_hd.jpg",
+          "releaseDate": "2025",
+          "duration": 7200,
+          "mediaType": "movie",
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "streamFormat": "mp4"
+        },
+        {
+          "id": "mov-velocity",
+          "title": "Velocity",
+          "description": "A thrilling sci-fi adventure in the world of Velocity",
+          "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/splash_hd.jpg",
+          "releaseDate": "2025",
+          "duration": 7200,
+          "mediaType": "movie",
+          "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "streamFormat": "mp4"
+        }
+      ]
+    }
+  ]
+}
