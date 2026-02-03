@@ -4,6 +4,48 @@
       "title": "Featured Series",
       "items": [
         {
+          "id": "new-sh",
+          "title": "Test Show",
+          "description": "Testing  . . .",
+          "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/new-sh_cover.png",
+          "releaseDate": "2026",
+          "mediaType": "series",
+          "seasons": [
+            {
+              "title": "Season 1",
+              "episodes": [
+                {
+                  "id": "new-sh-s1e1",
+                  "title": "Cum",
+                  "description": "Test lol",
+                  "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/new-sh-s1e1.gif",
+                  "releaseDate": "12-12-12",
+                  "duration": 666,
+                  "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                  "streamFormat": "hls",
+                  "episodeNumber": "1"
+                }
+              ]
+            },
+            {
+              "title": "Season 2",
+              "episodes": [
+                {
+                  "id": "new-sh-s2e1",
+                  "title": "test",
+                  "description": "test desc",
+                  "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/new-sh-s2e1.png",
+                  "releaseDate": "12-12-12",
+                  "duration": 20,
+                  "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                  "streamFormat": "hls",
+                  "episodeNumber": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "show-heated-rivalry",
           "title": "Heated Rivalry",
           "description": "Two rival hockey stars at the peak of their careers face an unexpected emotional connection, challenging their professional paths and disrupting the sports world's expectations.",
@@ -89,6 +131,17 @@
     {
       "title": "Trending Movies",
       "items": [
+        {
+          "id": "Be-Fr",
+          "title": "Bed Friends",
+          "description": "Gay Shit",
+          "thumbnail": "https://raw.githubusercontent.com/hotrod010307/rodstream-content/main/images/Be-Fr_cover.jpg",
+          "releaseDate": "20000",
+          "mediaType": "movie",
+          "duration": 100000000222,
+          "url": "https://hls.cdnvideo11.shop/hls07/6999/Ep1_index.m3u8",
+          "streamFormat": "mp4"
+        },
         {
           "id": "mov-cyber-runner",
           "title": "Cyber Runner",
